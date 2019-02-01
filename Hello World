@@ -1,5 +1,7 @@
+// we first create a class which is used to create objects, we make it public so it can be accessible by other classes.
 public class HelloWorld {
 public static void main(string[] args)
+//System.out.println is what we use to display the string enclosed in double quotes "Hello World"
 {
 System.out.println("Hello World");
 }
