@@ -1,10 +1,13 @@
 public class HelloWorld {
 public static void main(String[] args)
 {
+//we declare variable a of type int and assign it any value(in this case we use 10)
 int a = 10;
 int b = 20;
+//the purpose of c is to store the values we get from adding a and b to c
 int c;
 c = a+b;
+//display the new value of c
 System.out.println(c);
 }
 }
