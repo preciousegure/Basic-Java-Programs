@@ -1,0 +1,16 @@
+import java.util.Scanner;
+public class Practice {
+
+public static void main(String[] args) {
+// TODO code application logic here
+        
+Scanner sc = new Scanner(System.in);
+int age;
+System.out.println("enter in your age:");
+age = sc.nextInt();
+System.out.println("my age is" + age);
+
+
+    }
+    
+}
